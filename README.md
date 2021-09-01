@@ -1,2 +1,2 @@
 # Data_Science_E_Analise_de_Dados
-Portfólio com análises e projetos em Data Science.
+Aqui apresento meu portfólio com análises e projetos tanto pessoais quanto extraídos de aprendizado em cursos.
