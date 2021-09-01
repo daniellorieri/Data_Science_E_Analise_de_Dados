@@ -14,3 +14,7 @@ O setup usado na operação possui os seguitens indicadores:
 - media movel 9 periodos
 
 Usamos esses indicadores como variáveis característcas e comparamos com o preço de fechamento dos candles de 5min, passamos para um modelo de regressão linear usamos RFE para testar e tentar nos retornar quais são os melhores indicadores diante do que o RFE recomendar.
+
+### Conlusão
+
+ESSA ANÁLISE TEM COMO AUXILIAR EM UMA MELHOR ESCOLHA DOS INDICADORES E COM BASE DE COMO OS PREÇOS SE COMPORTAM EM RELAÇÃO AO INDICADORE PARA PODERMO TER UMA MELHOR DECISÃO AO ABRIR UMA ORDEM DE COMPRA OU DE VENDA, TENTADO REDUZIR AO MÁXIMO AS PERDAS.
