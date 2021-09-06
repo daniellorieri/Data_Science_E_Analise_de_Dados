@@ -1,4 +1,3 @@
-# Data_Science_E_Analise_de_Dados
 
 Objetivo desta análise é tentar extrair insigth e  verificar quais indicadores com base em um setup usado que uso para operar mini-indíce futuro no gráfico intraday no tempo de 5min, no período de 02-08-2021 a 26-08-2021, utilizando o RFE RECURSIVE FEATURE ELIMINATIONS para verificar quais indicadores melhor funcionam dentro do setup.
 
